@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 
 using Xamarin.Forms;
 using Xamarin.Forms.Xaml;
+using Mihaela_Sztodolnik_Lab10.Models;
 
 namespace Mihaela_Sztodolnik_Lab10
 {
